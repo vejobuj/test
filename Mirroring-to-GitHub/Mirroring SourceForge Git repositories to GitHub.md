@@ -43,3 +43,5 @@ Instead of using a shell script, one can use a git alias to keep the configurati
 The _!_ before the commands tells git that the command to follow is a shell command. Now the cronjob:
 
 <pre>10,40 * * * *  cd /home/cweiske/git/SemanticScuttle.git && git update-mirror</pre>
+
+source: http://cweiske.de/tagebuch/mirror-sourceforge-git-github.htm
