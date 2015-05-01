@@ -1,7 +1,11 @@
 - http://pandoc.org/try/
 - https://stackedit.io/
-- https://github.com/domchristie/to-markdown http://domchristie.github.io/to-markdown/
+- https://github.com/domchristie/to-markdown
+  - http://domchristie.github.io/to-markdown/
 - https://github.com/kates/html2markdown
 - http://softwaremaniacs.org/playground/showdown-highlight/
-- http://web.archive.org/web/20090416034543/http://attacklab.net/showdown/ http://softwaremaniacs.org/playground/showdown-highlight/ http://stackoverflow.com/a/1319711/4070433
-- http://sinnwerkstatt.github.io/MediaWiki-to-Markdown-Javascript-Converter/ https://github.com/sinnwerkstatt/MediaWiki-to-Markdown-Javascript-Converter
+- http://web.archive.org/web/20090416034543/http://attacklab.net/showdown/
+  - http://softwaremaniacs.org/playground/showdown-highlight/
+  - http://stackoverflow.com/a/1319711/4070433
+- http://sinnwerkstatt.github.io/MediaWiki-to-Markdown-Javascript-Converter/
+  - https://github.com/sinnwerkstatt/MediaWiki-to-Markdown-Javascript-Converter
