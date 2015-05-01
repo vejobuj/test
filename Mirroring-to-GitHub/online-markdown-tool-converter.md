@@ -5,4 +5,3 @@
 - http://softwaremaniacs.org/playground/showdown-highlight/
 - http://web.archive.org/web/20090416034543/http://attacklab.net/showdown/ http://softwaremaniacs.org/playground/showdown-highlight/ http://stackoverflow.com/a/1319711/4070433
 - http://sinnwerkstatt.github.io/MediaWiki-to-Markdown-Javascript-Converter/ https://github.com/sinnwerkstatt/MediaWiki-to-Markdown-Javascript-Converter
-- 
