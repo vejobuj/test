@@ -1,4 +1,6 @@
-http://pandoc.org/try/
-https://stackedit.io/
-https://github.com/domchristie/to-markdown http://domchristie.github.io/to-markdown/
-https://github.com/kates/html2markdown
+- http://pandoc.org/try/
+- https://stackedit.io/
+- https://github.com/domchristie/to-markdown http://domchristie.github.io/to-markdown/
+- https://github.com/kates/html2markdown
+- http://softwaremaniacs.org/playground/showdown-highlight/
+- http://web.archive.org/web/20090416034543/http://attacklab.net/showdown/
